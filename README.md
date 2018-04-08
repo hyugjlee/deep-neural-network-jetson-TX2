@@ -24,3 +24,5 @@ Install Tensorflow with following github of jetsonhacks:
 
 * * *
 ## Deep neural network algorithms
+### Detectron
+### SfMLearner
