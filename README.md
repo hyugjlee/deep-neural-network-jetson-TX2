@@ -4,14 +4,14 @@ Building and operating DNN with Jetson TX2
 Precondition:
   1. Jetpack is installed.
 
-Python packages:
-  future
-  numpy
-  protobuf
-  six
-  matplotlib
-  scipy
-  pyyaml
+Python packages: <br>
+  future <br>
+  numpy <br>
+  protobuf <br>
+  six <br>
+  matplotlib <br>
+  scipy <br>
+  pyyaml <br>
 Some in the lists are not 'must'
 
 * * *
