@@ -15,6 +15,12 @@ Python packages: <br>
 Some in the lists are not 'must'
 
 * * *
-## Tensorflow
+## Setup/install deep learning software
+### Tensorflow
 Install Tensorflow with following github of jetsonhacks:
   https://github.com/jetsonhacks/installTensorFlowTX2.git
+
+### Caffe
+
+* * *
+## Deep neural network algorithms
