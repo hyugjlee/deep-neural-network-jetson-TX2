@@ -1,4 +1,4 @@
-# Deep-Neural_Network-Jetson-TX2
+# Deep-Neural-Network-Jetson-TX2
 Building and operating DNN with Jetson TX2
 
 Precondition:
